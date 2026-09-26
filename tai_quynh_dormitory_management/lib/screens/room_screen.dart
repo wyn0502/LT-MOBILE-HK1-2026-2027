@@ -12,7 +12,7 @@ class _RoomScreenState extends State<RoomScreen> {
   // Khởi tạo dữ liệu mẫu
   final Room testRoom = Room(
     buildingId: "Tòa A",
-    name: "A101",
+    name: "101",
     capacity: 4,
     currentOccupancy: 3,
     roomType: "Tiêu chuẩn",
